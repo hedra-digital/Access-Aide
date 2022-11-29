@@ -1,5 +1,12 @@
 **[Plugin] Access-Aide - help improve epub accessibility**
 
+
+ATENÇÃO:
+
+`sudo apt-get install python3-pil python3-pil.imagetk`
+
+
+
 Updated: September 17, 2021
 
 Current Version: "0.5.4"
